@@ -3,3 +3,6 @@ app
 package-lock
 package
 gulpfile
+gulpfile.js
+package-lock.json
+package.json
