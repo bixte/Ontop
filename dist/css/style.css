@@ -87,6 +87,14 @@
   font-size: 14px;
 }
 
+@font-face {
+  font-family: Lato;
+  src: url("../fonts/Lato-Bold.ttf");
+  src: url("../fonts/Lato-Heavy.ttf");
+  src: url("../fonts/Lato-Medium.ttf");
+  src: url("../fonts/Lato-Regular.ttf");
+}
+
 /*Обнуление*/
 
 * {
