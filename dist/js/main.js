@@ -1,12 +1,4 @@
 document.addEventListener('DOMContentLoaded', ()=>{
-    let graphNav = document.querySelector ('.analytic-date__navigation');
-    let grathBtns = document.querySelectorAll('[data-graph]')
-    console.log(graphNav);
-    graphNav.addEventListener ('click', function showGraph(){
-        grathBtns.forEach(grathBtn => {
-        });
-    })
-
     let progressChart = {
         type: "bar",
         series: [{
